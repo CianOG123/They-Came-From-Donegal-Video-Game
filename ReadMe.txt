@@ -3,7 +3,7 @@
 
  This game is the result of an inside joke between a friend of mine and I. I promised her I would put her 
  face inside a game of Space Invaders after I had made a rough Space Invader style game as an assignment for University.
- As a result of quarantine, boredom, and my own weakness (that is to focus too much on small details), the silly idea eventually
+ As a result of quarantine, boredom, and my own weakness (that is to focus too much on small details), the silly idea eventually 
  morphed into a full game. Originally I had plans for the game to include a boss battle, level music, different backgrounds,
  etc. However, there came a point where I had to step away from the keyboard as the project was quickly growing too laborious
  for my liking, and by this stage the project had also fulfilled its ultimate purpose; to improve my programming abilities,
