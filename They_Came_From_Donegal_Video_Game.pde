@@ -8,8 +8,9 @@ import processing.sound.*;
 // Useful settings
 int difficultyLevel = MEDIUM;        // Difficulty Level (EASY, MEDIUM, HARD)
 boolean enableSuperAffraics = true;      // Enables super Affraics
-float musicVolume = 0.01;                // Volume level of the music on start
-float soundEffectVolume = .2;          // Volume level of sound effects on start
+float musicVolume = 0.8;                // Volume level of the music on start
+float soundEffectVolume = 1;          // Volume level of sound effects on start
+
 // Level Specific Variable Options
 // Dificulty
 static final int EASY = 1;
